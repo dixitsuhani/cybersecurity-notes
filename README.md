@@ -1,8 +1,8 @@
-# cybersecurity-notes
+# Cybersecurity Notes
 ## Author
 Suhani Dixit
 ## About
-I am a 2nd year BCA student learning cybersecurity.
+I am a 2nd year BCA student building a strong foundation in cybersecurity.
 ## What I'm Learning
 - Internet Basics
 - Linux Basics
