@@ -9,16 +9,16 @@ Humans remember names, but computer use IP addresses. DNS converts names into IP
 ## Domain Heirarchy
 Root Domain: "."
 Top-Level Domain: Right-hand part of domain name. Two types:
-(a) Generic TLD: Tells the purpose of website. E.g., .com (Commerce), .edu (Education)
-(b) Country Code TLD: Geographical purposes. E.g., .in (India), .ca (Canada)
+### (a) Generic TLD: Tells the purpose of website. E.g., .com (Commerce), .edu (Education)
+### (b) Country Code TLD: Geographical purposes. E.g., .in (India), .ca (Canada)
 Second-Level Domain: Limited to 63 characters (a-z, 0-9, hyphens). Cannot start or end with hyphens.
 
 ## DNS Record Types
-(a) A Record: Maps domain to IPv4 address.
-(b) AAAA Record: Maps domain to IPv6 address.
-(c) CNAME Record: Maps to another domain name.
-(d) MX Record (email): Tells where should emails for a certain domain go.
-(e) TXT Record: Domain info in the form of text is stored. Main function is to list the authorized servers.
+### (a) A Record: Maps domain to IPv4 address.
+### (b) AAAA Record: Maps domain to IPv6 address.
+### (c) CNAME Record: Maps to another domain name.
+### (d) MX Record (email): Tells where should emails for a certain domain go.
+### (e) TXT Record: Domain info in the form of text is stored. Main function is to list the authorized servers.
 
 ## Making a Request
 User → Requests domain name  
