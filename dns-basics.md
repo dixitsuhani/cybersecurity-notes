@@ -1,10 +1,10 @@
 # Domain Name System (DNS)
 
 ## What is DNS?
-Helps communicating with the devices on the internet withount memorizing comple numbers (IP Address).
+Helps communicating with the devices on the internet without memorizing complex numbers (IP Address).
 
 ## Why Is DNS Needed?
-Humans remember names, but computer use IP addresses. DNS converts names into IP addresses.
+Humans remember names, but computers use IP addresses. DNS converts names into IP addresses.
 
 ## Domain Heirarchy
 Root Domain: "."
@@ -17,10 +17,10 @@ Second-Level Domain: Limited to 63 characters (a-z, 0-9, hyphens). Cannot start 
 ### (a) A Record: Maps domain to IPv4 address.
 ### (b) AAAA Record: Maps domain to IPv6 address.
 ### (c) CNAME Record: Maps to another domain name.
-### (d) MX Record (email): Tells where should emails for a certain domain go.
-### (e) TXT Record: Domain info in the form of text is stored. Main function is to list the authorized servers.
+### (d) MX Record (email): Specifies which mail servers handle email for a domain.
+### (e) TXT Record: Stores text-based information such as email security, domain verification.
 
-## Making a Request
+## DNS Flow
 User → Requests domain name  
    ↓  
 Recursive DNS Server (ISP - Internet Service Provider)  
