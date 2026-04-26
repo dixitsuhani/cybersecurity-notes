@@ -7,11 +7,11 @@ Helps communicating with the devices on the internet without memorizing complex 
 Humans remember names, but computers use IP addresses. DNS converts names into IP addresses.
 
 ## Domain Heirarchy
-Root Domain: "."
-Top-Level Domain: Right-hand part of domain name. Two types:
-### (a) Generic TLD: Tells the purpose of website. E.g., .com (Commerce), .edu (Education)
-### (b) Country Code TLD: Geographical purposes. E.g., .in (India), .ca (Canada)
-Second-Level Domain: Limited to 63 characters (a-z, 0-9, hyphens). Cannot start or end with hyphens.
+### Root Domain: "."
+### Top-Level Domain: Right-hand part of domain name. Two types:
+#### (a) Generic TLD: Tells the purpose of website. E.g., .com (Commerce), .edu (Education)
+#### (b) Country Code TLD: Geographical purposes. E.g., .in (India), .ca (Canada)
+### Second-Level Domain: Limited to 63 characters (a-z, 0-9, hyphens). Cannot start or end with hyphens.
 
 ## DNS Record Types
 ### (a) A Record: Maps domain to IPv4 address.
