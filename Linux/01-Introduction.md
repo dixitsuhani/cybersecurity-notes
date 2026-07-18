@@ -6,6 +6,9 @@ Operating System is a software that allows other programs like word processors a
 # Command
 - A command is an instruction entered into the CLI that tells the operating system to perform a specific task.
 - Command Syntax:
-- Command Syntax: command [options] [arguments]
+- Command Syntax:
+```text
+  command [options] [arguments]
+```
   - **Options:** Used to alter the behavior of a command
   - **Arguments:** Used to specify something for the command to act upon
