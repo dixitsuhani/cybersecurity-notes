@@ -9,5 +9,5 @@ Operating System is a software that allows other programs like word processors a
 ```text
   command [options] [arguments]
 ```
-  - **Options:** Used to alter the behavior of a command
-  - **Arguments:** Used to specify something for the command to act upon
+    - **Options:** Used to alter the behavior of a command
+    - **Arguments:** Used to specify something for the command to act upon
